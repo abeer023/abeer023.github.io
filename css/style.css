@@ -20,6 +20,10 @@ nav .brand-logo {
   color: #444;
 }
 
+.justify-text {
+text-align: justify
+}
+
 .link-icon {
 color: white
 }
